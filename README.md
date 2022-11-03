@@ -1,6 +1,6 @@
 # Coffee-Shope-Webiste
-Web based Project for a coffee shop called Elena.
-On this website, Elena's customers can buy various coffee shop items. 
-Also, admins of the website can modify various proucts' detials (price, image, ...).
-This project is still UNDER DEVELOPMENT, and will be completed on 24th of may 2022. 
-This project will be completed using CSS, HTML, Bootstrap5, Javascript, SQL, and PHP. 
+Web-based Project for a coffee shop called Elena.
+On this website, Elena's customers can view menu items, add/remove items to their shopping cart, 
+apply for a job at Elen Coffe, and get contact information for Elena Coffe.
+Also, the website admins can modify various product details (price, image, ...).
+This project was built using Javascript, PHP, SQL, Bootstrap5, HTML5, and CSS.
