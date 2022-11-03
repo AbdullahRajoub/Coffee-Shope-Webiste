@@ -1,4 +1,4 @@
-# Coffee-Shope-Webiste
+# Coffee Shop Webiste
 Web-based Project for a coffee shop called Elena.
 On this website, Elena's customers can view menu items, add/remove items to their shopping cart, 
 apply for a job at Elena Caffe, and get contact information for Elena Caffe.
